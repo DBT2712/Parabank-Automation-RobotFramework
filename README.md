@@ -60,7 +60,7 @@ output.xml
 👤 Yaksh Bhut
 📧 bhutyaksh@gmail.com
 
-👤 Ishika Vaghasiya
-📧 ishikavaghasiya.ca@gmail.com
+👤 Dhaval Thakkar
+📧 dhaval27thakkar@gmail.com
 
 
